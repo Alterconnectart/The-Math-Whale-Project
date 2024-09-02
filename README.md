@@ -6,4 +6,4 @@ personal journeys to better outcomes. Our different
 sections highlight specs of our project in great detail to 
 get you onboarded with these conceptual pieces of text.
 
-![mw](https://github.com/user-attachments/assets/7af9a55b-423c-4b52-a79d-fdadded47fb2)
+<img width="163" alt="Screenshot 2024-09-02 at 4 40 05 PM" src="https://github.com/user-attachments/assets/f21b4a66-e2f6-411e-a00d-ac237674195f">
